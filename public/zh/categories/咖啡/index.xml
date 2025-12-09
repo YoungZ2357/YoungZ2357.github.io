@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>咖啡 on Young的作品集与博客</title>
+    <link>http://localhost:1313/zh/categories/%E5%92%96%E5%95%A1/</link>
+    <description>Recent content in 咖啡 on Young的作品集与博客</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/categories/%E5%92%96%E5%95%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>咖啡记录</title>
+      <link>http://localhost:1313/zh/blog/coffee/coffee-brew-experience/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/blog/coffee/coffee-brew-experience/</guid>
+      <description>&lt;h3 id=&#34;1kanzu-rwanda&#34;&gt;1.Kanzu, Rwanda&lt;/h3&gt;
+&lt;p&gt;风味：橙子、红茶、李子&lt;/p&gt;
+&lt;p&gt;豆种：传教士波旁&lt;/p&gt;
+&lt;p&gt;处理法：水洗&lt;/p&gt;
+&lt;h4 id=&#34;冲煮手冲&#34;&gt;冲煮(&lt;strong&gt;手冲&lt;/strong&gt;)：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;92摄氏度&lt;/li&gt;
+&lt;li&gt;按粉水比注入：2(焖蒸) - 8 - 7&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注：需要对咖啡足够熟悉才能品尝到红茶味&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;2datera-sundrop-brazil&#34;&gt;2.Datera, Sundrop, Brazil&lt;/h3&gt;
+&lt;p&gt;风味： 奶油糖、蓝莓、三叶草(这是什么鬼&amp;hellip;)&lt;/p&gt;
+&lt;p&gt;豆种：黄波旁、粉波旁拼配&lt;/p&gt;
+&lt;p&gt;处理法：日晒&lt;/p&gt;
+&lt;h4 id=&#34;冲煮手冲-1&#34;&gt;冲煮(&lt;strong&gt;手冲&lt;/strong&gt;)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;88摄氏度&lt;/li&gt;
+&lt;li&gt;按照粉水比注入：2(焖蒸) - 8 - 7&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;冷萃---红酒风味&#34;&gt;&lt;strong&gt;冷萃&lt;/strong&gt; - 红酒风味&lt;/h4&gt;
+&lt;p&gt;很神奇的是，这款豆子没有发酵处理，但是的确能结合酸味和蓝莓气味得到红酒味&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;粉水比1:18&lt;/li&gt;
+&lt;li&gt;手冲相同研磨度（否则没有红酒味）&lt;/li&gt;
+&lt;li&gt;成功实践范例：12小时&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
