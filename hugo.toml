@@ -27,11 +27,7 @@ defaultContentLanguageInSubdir = true
       url = "/notes/"
       weight = 3
     
-    [[languages.en.menu.main]]
-      name = "References"
-      parent = "Notes"
-      url = "/notes/reference/"
-      weight = 1
+
     
     [[languages.en.menu.main]]
       name = "Supervised Learning"
@@ -63,11 +59,7 @@ defaultContentLanguageInSubdir = true
       url = "/notes/math-foundation/optimization/"
       weight = 2
     
-    [[languages.en.menu.main]]
-      name = "Attachments"
-      parent = "Notes"
-      url = "/notes/attachments/"
-      weight = 4
+
     
     [[languages.en.menu.main]]
       name = "Resources"
@@ -94,11 +86,6 @@ defaultContentLanguageInSubdir = true
       url = "/zh/notes/"
       weight = 3
     
-    [[languages.zh.menu.main]]
-      name = "参考文献"
-      parent = "笔记"
-      url = "/zh/notes/reference/"
-      weight = 1
     
     [[languages.zh.menu.main]]
       name = "监督学习算法"
@@ -130,11 +117,7 @@ defaultContentLanguageInSubdir = true
       url = "/zh/notes/math-foundation/optimization/"
       weight = 2
     
-    [[languages.zh.menu.main]]
-      name = "其他附件"
-      parent = "笔记"
-      url = "/zh/notes/attachments/"
-      weight = 4
+
     
     [[languages.zh.menu.main]]
       name = "资源"
@@ -151,3 +134,4 @@ defaultContentLanguageInSubdir = true
   
 
   math = true
+  mathjax = true  
