@@ -44,6 +44,12 @@ defaultContentLanguageInSubdir = true
       parent = "Notes"
       url = "/notes/math-foundation/"
       weight = 3
+
+    [[languages.en.menu.main]]
+      name = "Notes for Papers"
+      parent = "Notes"
+      url = "/notes/paper-reading/"
+      weight = 3
     
     [[languages.en.menu.main]]
       name = "ML Theory"
@@ -105,6 +111,12 @@ defaultContentLanguageInSubdir = true
       parent = "笔记"
       url = "/zh/notes/math-foundation/"
       weight = 3
+
+    [[languages.zh.menu.main]]
+      name = "论文阅读笔记"
+      parent = "笔记"
+      url = "/zh/notes/paper-reading/"
+      weight = 4
     
     [[languages.zh.menu.main]]
       name = "机器学习理论基础"
